@@ -1,0 +1,6 @@
+framework module Pods_RestWithSwift {
+  umbrella header "Pods-RestWithSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
